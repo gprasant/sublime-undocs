@@ -36,7 +36,7 @@ search panel is mainly a matter of preference.
 Replacing Text
 ==============
 
-You can open the replace planel with ``Ctrl + H``.
+You can open the replace planel with ``Ctrl + H`` (opt + Cmd + F on OS X).
 
 ==========================	======================
 Replace All:				``Ctrl + Alt + Enter``
